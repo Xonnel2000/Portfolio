@@ -15,21 +15,21 @@
       <!-- Social Links Container -->
       <div class="flex justify-center space-x-2">
         <!-- Link 1 -->
-        <a href="#">
+        <a href="/">
           <img src="../../img/icon-facebook.svg" alt="" class="h-8" />
         </a>
         <!-- Link 2 -->
 
         <!-- Link 3 -->
-        <a href="#">
+        <a href="/">
           <img src="../../img/icon-twitter.svg" alt="" class="h-8" />
         </a>
         <!-- Link 4 -->
-        <a href="#">
+        <a href="/">
           <img src="../../img/icon-pinterest.svg" alt="" class="h-8" />
         </a>
         <!-- Link 5 -->
-        <a href="#">
+        <a href="/">
           <img src="../../img/icon-instagram.svg" alt="" class="h-8" />
         </a>
       </div>

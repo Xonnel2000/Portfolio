@@ -16,7 +16,7 @@
       </p>
       <div class="flex justify-center md:justify-start">
         <a
-          href=""
+          href="/"
           class="rounded-full baseline bg-black text-white pt-2 p-3 px-6"
           >Get starter</a
         >
@@ -29,7 +29,7 @@
       />
       <div class="flex mt-5 justify-center md:justify-center">
         <a
-          href=""
+          href="/"
           class="rounded-full baseline bg-orange-400  text-white pt-2 p-3 px-6"
           >View More</a
         >
@@ -97,7 +97,7 @@
       </div>
     </div>
     <div class="my-16">
-      <a href="" class="rounded-full text-white bg-orange-400   p-3 "
+      <a href="/" class="rounded-full text-white bg-orange-400   p-3 "
         >Get started</a
       >
     </div>
@@ -116,7 +116,7 @@
     </h1>
 
     <div>
-      <a href="" class="rounded-full text-white bg-orange-400   p-3 "
+      <a href="/" class="rounded-full text-white bg-orange-400   p-3 "
         >Get started</a
       >
     </div>
