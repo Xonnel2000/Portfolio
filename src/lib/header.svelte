@@ -47,7 +47,8 @@
     >
       <a class="text-black" href="#\/">Home</a>
       <!-- <a href="/product">Product</a> -->
-      <a class="text-black" href="/aboutus">About Us</a>
+      <a class="text-black" aria-current={$page.url.pathname === '/about' ? 'page' : undefined}
+      href="/about">About Me</a>
       <!-- <a href="#">Careers</a> -->
     </div>
   </div>
